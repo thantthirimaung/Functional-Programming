@@ -26,52 +26,54 @@ Use the command "stack runghc calculator.hs < input.txt > output.txt"
 * Sum of even and sum of odd commands only accept one positive number.
 
 # Example Input Commands
-sum even 7
-count 8 7 6 5 4 3 13
-AvG 4 5 73 54 8
-* 3.4 5.6
-sum 5 6
-- 6 3
-- 45 567
-* 4.5 6.0
-+ 5 10
-subTraCt 20 7
-aVg 4 8 12
-MaX 3 7 1
-cOuNt 2 3 5
-DEC2bin 15
-map DOuble 2 4 6
-MAP squaRe 3 5 7
-map absolute -1 0 2
-MAP ABSOLUTE 4 5 8 7 6 5 4 3 2 1 8 7 5 0
-avg 9  8 4 4
- AVg 4 5 6
-Sum even 7
-Sum Odd -1
-sum Odd 8
+
+sum even 7 <br>
+count 8 7 6 5 4 3 13 <br>
+AvG 4 5 73 54 8<br>
+\* 3.4 5.6<br>
+sum 5 6<br>
+- 6 3<br>
+- 45 567<br>
+\* 4.5 6.0<br>
++ 5 10<br>
+subTraCt 20 7<br>
+aVg 4 8 12<br>
+MaX 3 7 1<br>
+cOuNt 2 3 5<br>
+DEC2bin 15<br>
+map DOuble 2 4 6<br>
+MAP squaRe 3 5 7<br>
+map absolute -1 0 2<br>
+MAP ABSOLUTE 4 5 8 7 6 5 4 3 2 1 8 7 5 0<br>
+avg 9  8 4 4<br>
+ AVg 4 5 6<br>
+Sum even 7<br>
+Sum Odd -1<br>
+sum Odd 8<br>
 
 # Output of Example Input
-12
-4
-28.8
-19.04
-11.0
-3.0
-error
-27.0
-15.0
-13.0
-8.0
-7
-3
-1111
-[4,8,12]
-[9,25,49]
-[1,0,2]
-error
-error
-error
-12
-error
-16
+12<br>
+4<br>
+28.8<br>
+19.04<br>
+11.0<br>
+3.0<br>
+error<br>
+27.0<br>
+15.0<br>
+13.0<br>
+8.0<br>
+7<br>
+3<br>
+1111<br>
+[4,8,12]<br>
+[9,25,49]<br>
+[1,0,2]<br>
+error<br>
+error<br>
+error<br>
+12<br>
+error<br>
+16<br>
+
 
