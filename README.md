@@ -32,10 +32,10 @@ count 8 7 6 5 4 3 13 <br>
 AvG 4 5 73 54 8<br>
 \* 3.4 5.6<br>
 sum 5 6<br>
-- 6 3<br>
-- 45 567<br>
+\- 6 3<br>
+\- 45 567<br>
 \* 4.5 6.0<br>
-+ 5 10<br>
+\+ 5 10<br>
 subTraCt 20 7<br>
 aVg 4 8 12<br>
 MaX 3 7 1<br>
